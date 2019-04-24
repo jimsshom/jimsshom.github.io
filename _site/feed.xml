@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jimsshom Blog</title>
+    <description>我的一生</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 Apr 2019 22:02:07 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 22:02:07 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>测试第一篇博客</title>
+        <description>&lt;p&gt;测试测试&lt;/p&gt;
+
+&lt;p&gt;TestTest&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/04/24/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/24/hello-world/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
